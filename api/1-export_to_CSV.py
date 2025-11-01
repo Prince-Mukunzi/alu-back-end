@@ -1,7 +1,11 @@
 #!/usr/bin/python3
+import csv
 import requests
 import sys
-import csv
+
+"""
+Python file that records tasks owned by a entered employee
+"""
 
 def main():
     if len(sys.argv) != 2:
