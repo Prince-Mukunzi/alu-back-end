@@ -4,14 +4,7 @@ import requests
 import sys
 
 """
-This script fetches and records all tasks owned by a specified employee
-from the JSONPlaceholder API (https://jsonplaceholder.typicode.com/) and
-saves the data into a CSV file.
-
-Usage:
-    python3 0-gather_data_from_an_API.py <employee_id>
-
-The CSV file is named <employee_id>.csv
+Python file that records tasks owned by a entered employee
 """
 
 def main():
