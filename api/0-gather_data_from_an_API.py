@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 Python script that, using a REST API, returns information about
 an employee’s TODO list progress.
