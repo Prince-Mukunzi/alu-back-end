@@ -3,8 +3,8 @@
 Python script that, using a REST API, returns information about
 an employee’s TODO list progress.
 """
-import sys
 import requests
+import sys
 
 def main():
     if len(sys.argv) != 2:
